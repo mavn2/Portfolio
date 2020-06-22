@@ -37,6 +37,7 @@ Thanks to Katie Frances for this guide to customizing the Bootstrap navbar
 
 and to those maintaining [https://imagecolorpicker.com/en/](https://imagecolorpicker.com/en/). 
 Thanks to GF and CP for directing me to those resources-if I knew my classmates' git pages I'd link them here.
+Credit to [https://placeimg.com/](https://placeimg.com/) for portfolio images.
 Last, of course, thanks and credit to Bootstrap for their code and extensive documentation.
 
 
