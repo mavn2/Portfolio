@@ -58,8 +58,19 @@ article{
     color: black;
 }
 
+.pHeader{
+    border-bottom-style: solid;
+    border-width: thin;
+    background-color: #d3e4fb;
+}
+
 .card-footer{
     background-color: #d3e4fb;
+}
+
+.card-footer.row{
+    margin-right: 0px;
+    margin-left: 0px;
 }
 
 /*Reduces padding between body/navbar for cleaner design on mobile*/
