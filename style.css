@@ -4,17 +4,20 @@ around right now to tell me if I've misinterpretted them or how they're rendered
 I just wanted to tell you in case something, maybe, doesn't make sense or clashes horribly.*/
 
 /*Style for Navbar*/
+
 .navbar{
     background: #849ac0;
 }
 
 /*Page Background*/
+
 body{
     padding-top: 65px;
     background-color: #e5e5ed;
 }
 
 /*Universal style for page bodies*/
+
 main{
     margin-top: 30px;
     max-width: 700px;
@@ -22,6 +25,7 @@ main{
 }
 
 /*Style for page headers*/
+
 .head{
     border-bottom-style: solid;
     border-width: thin;
@@ -33,6 +37,7 @@ main{
 }
 
 /*Style for the About Me card, distinct from Portfolio cards*/
+
 #bio{
     margin-top: 10px;
 }
@@ -47,12 +52,14 @@ article{
 
 
 /*Style for Contact page*/
+
 #con{
     margin-top: 10px;
     padding-bottom: 10px;
 }
 
 /*Style for Portoflio Page*/
+
 .card-link{
     text-decoration: underline;
     color: black;
